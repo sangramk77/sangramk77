@@ -1,125 +1,121 @@
-# Hi, I'm Sangram Keshari Sahoo 👋
+<div align="center">
 
-### Full Stack Developer | Laravel Developer | Open Source Contributor
+```
+███████╗ █████╗ ███╗   ██╗ ██████╗ ██████╗  █████╗ ███╗   ███╗
+██╔════╝██╔══██╗████╗  ██║██╔════╝ ██╔══██╗██╔══██╗████╗ ████║
+███████╗███████║██╔██╗ ██║██║  ███╗██████╔╝███████║██╔████╔██║
+╚════██║██╔══██║██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║╚██╔╝██║
+███████║██║  ██║██║ ╚████║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-I am a Full Stack Developer with 10+ years of overall professional experience, including 7+ years in software development. I specialize in building secure, scalable, and user-friendly web applications, eCommerce platforms, SaaS products, ePaper portals, admin panels, government platforms, and business management systems.
+### Full Stack Developer · Laravel Specialist · Open Source Contributor
 
-I work mainly with **PHP, Laravel, Livewire, Filament PHP, React, TypeScript, Node.js, Express.js, MySQL, MongoDB, PostgreSQL, Tailwind CSS, Docker, Linux VPS, AWS, DigitalOcean, Hostinger, and Cloudflare**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-sangramk.in-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://sangramk.in)
+[![GitHub](https://img.shields.io/badge/GitHub-sangramk77-181717?style=flat-square&logo=github)](https://github.com/sangramk77)
+[![Email](https://img.shields.io/badge/Email-sangramdev7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sangramdev7@gmail.com)
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently working as **Senior Software Developer at Meinstyn Solution**
-- 💻 Building production-ready platforms using **Laravel, PHP, React, TypeScript, Livewire, Filament PHP, and Node.js**
-- 🛒 Experienced in **eCommerce platforms**, product management systems, order workflows, payment integrations, and SEO-friendly architecture
-- 📰 Built and maintained **ePaper and digital publishing platforms**
-- 🏛️ Worked on government and enterprise systems involving role-based access, reporting, dashboards, and data workflows
-- 🤖 Integrating AI tools like **OpenAI, Gemini, and Claude** into existing platforms
-- 🌱 Exploring better development workflows with **Docker, Kubernetes, NativePHP, TanStack Start, and automation**
-- 🤝 Open Source Contributor and active learner in the Laravel, PHP, JavaScript, and TypeScript ecosystem
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Languages & Scripting
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+I'm a Full Stack Developer with **10+ years of professional experience**, including **7+ years in software engineering**. I build production-ready web applications — from eCommerce platforms and SaaS tools to government systems and AI-integrated workflows.
+
+Currently working as **Senior Software Developer at Meinstyn Solution**, where I architect and ship scalable systems using Laravel, Livewire, Filament PHP, React, and TypeScript.
+
+- 🏗️ Architecting production platforms with **Laravel, Filament, Livewire, React, and Node.js**
+- 🛒 Building end-to-end **eCommerce systems** — catalogs, order flows, payments, SEO
+- 📰 Developed and maintained **ePaper & digital publishing platforms**
+- 🏛️ Delivered **government and enterprise systems** with role-based access and audit workflows
+- 🤖 Integrating **OpenAI, Gemini, and Claude** into real-world production apps
+- 🌱 Exploring **Docker, Kubernetes, NativePHP, TanStack Start**, and dev automation
+
+---
+
+## Tech Stack
+
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 
 ### Backend
-![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=laravel&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### DevOps, Cloud & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 💼 What I Build
-
-- eCommerce platforms
-- SaaS applications
-- Admin panels and dashboards
-- ePaper and digital publishing platforms
-- Government and enterprise web applications
-- Business management systems
-- Payment-enabled platforms
-- SEO-friendly websites
-- AI-integrated tools and workflows
-- Web scraping and automation tools
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📌 Selected Projects
+## Selected Projects
 
-### Natural Rudraksh – eCommerce Platform
-Laravel-based eCommerce platform with product catalog, admin panel, order management, SEO-friendly pages, responsive UI, deployment workflows, and ongoing maintenance.
-
-### Effective Gems – eCommerce Platform
-eCommerce website for gemstone and related products with product management, admin workflows, analytics tracking, content management, and performance improvements.
-
-### Vastu World – eCommerce Platform
-eCommerce platform for Vastu-related products with product listing, order workflows, admin management, and responsive frontend pages.
-
-### Hitech Group Management – Business Management System
-Internal business management system for administrative workflows, user records, reporting, access control, and operational tracking.
-
-### Pratidin / Prabaha / Prayas ePaper – Digital Publishing Platforms
-Digital publishing platforms for uploading, managing, and displaying ePaper editions with admin-side publishing workflows and structured reader access.
-
-### LRMS – Government Revenue Management Platform
-Government web application for the Revenue and Disaster Management Department using Core PHP and MongoDB, with role-based access, data entry, reporting, validation, and departmental record workflows.
-
-### Larapush / Business Push – SaaS Platforms
-SaaS-style platforms focused on marketing automation, business communication, campaign workflows, user engagement, account management, and reporting modules.
+| Project | Type | Stack |
+|---|---|---|
+| **Natural Rudraksh** | eCommerce Platform | Laravel, MySQL, Tailwind |
+| **Effective Gems** | eCommerce + Analytics | Laravel, Filament, Alpine |
+| **Vastu World** | eCommerce Platform | Laravel, Livewire |
+| **Hitech Group Management** | Business Management System | Laravel, MySQL, Filament |
+| **Pratidin / Prabaha / Prayas ePaper** | Digital Publishing Platform | Laravel, Livewire |
+| **LRMS** | Government Revenue Management | Core PHP, MongoDB |
+| **Larapush / Business Push** | SaaS — Marketing Automation | Laravel, Node.js, Redis |
 
 ---
 
-## 🌍 Open Source & Learning
+## GitHub Stats
 
-I actively explore and contribute to the developer ecosystem around Laravel, PHP, JavaScript, TypeScript, React, DevOps, and automation. I believe in learning in public, improving real-world products, and building tools that solve practical business problems.
+<div align="center">
 
----
+![Sangram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangramk77&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=FF6B35&text_color=555555)
 
-## 📊 GitHub Activity
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangramk77&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=555555)
 
-![Sangram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangramk77&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=sangramk77&theme=default&hide_border=true&background=00000000&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangramk77&layout=compact&theme=default)
-
----
-
-## 🔗 Connect With Me
-
-- Portfolio: [sangramk.in](https://sangramk.in)
-- GitHub: [github.com/sangramk77](https://github.com/sangramk77)
-- Email: [sangramdev7@gmail.com](mailto:sangramdev7@gmail.com)
+</div>
 
 ---
 
-> Talk is cheap, send patches.
+## What I Build
+
+```
+eCommerce Platforms        SaaS Applications         Admin Panels & Dashboards
+ePaper Publishing Tools    Government Systems         Payment-Enabled Platforms
+AI-Integrated Workflows    Web Scraping & Automation  SEO-Optimized Websites
+```
+
+---
+
+<div align="center">
+
+*Talk is cheap. Send patches.*
+
+**[sangramk.in](https://sangramk.in) · [github.com/sangramk77](https://github.com/sangramk77) · [sangramdev7@gmail.com](mailto:sangramdev7@gmail.com)**
+
+</div>
