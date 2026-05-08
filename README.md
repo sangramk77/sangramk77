@@ -92,11 +92,11 @@ Currently working as **Senior Software Developer at Meinstyn Solution**, where I
 
 <div align="center">
 
-![Sangram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangramk77&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=FF6B35&text_color=555555)
+![Sangram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangramk77&show_icons=true&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=888888&bg_color=ffffff00)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangramk77&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=555555)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangramk77&layout=compact&hide_border=true&title_color=FF6B35&text_color=888888&bg_color=ffffff00)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sangramk77&theme=default&hide_border=true&background=00000000&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
+![GitHub Streak](https://streak-stats.demolab.com?user=sangramk77&hide_border=true&background=ffffff00&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=888888&dates=888888&sideNums=555555&currStreakNum=FF6B35)
 
 </div>
 
