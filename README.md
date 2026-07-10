@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-███████╗ █████╗ ███╗   ██╗ ██████╗ ██████╗  █████╗ ███╗   ███╗
-██╔════╝██╔══██╗████╗  ██║██╔════╝ ██╔══██╗██╔══██╗████╗ ████║
-███████╗███████║██╔██╗ ██║██║  ███╗██████╔╝███████║██╔████╔██║
-╚════██║██╔══██║██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║╚██╔╝██║
-███████║██║  ██║██║ ╚████║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
 
 ### Full Stack Developer · Laravel Specialist · Open Source Contributor
 
@@ -92,7 +84,7 @@ Currently working as **Senior Software Developer at Meinstyn Solution**, where I
 
 ## GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img
   src="https://github.com/sangramk77.png"
@@ -128,7 +120,7 @@ Currently working as **Senior Software Developer at Meinstyn Solution**, where I
   />
 </a>
 
-</div>
+</div> -->
 
 ---
 
