@@ -80,9 +80,7 @@ Currently working as **Senior Software Developer at Meinstyn Solution**, where I
 
 ---
 
-## GitHub Stats
 
-## GitHub Stats
 
 <!-- <div align="center">
 
