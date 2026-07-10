@@ -134,7 +134,7 @@ AI-Integrated Workflows    Web Scraping & Automation  SEO-Optimized Websites
 
 <div align="center">
 
-*Talk is cheap. Send patches.*
+*Talk is cheap. Send patches.*❤️
 
 **[sangramk.in](https://sangramk.in) · [github.com/sangramk77](https://github.com/sangramk77) · [sangramdev7@gmail.com](mailto:sangramdev7@gmail.com)**
 
