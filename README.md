@@ -90,11 +90,22 @@ Currently working as **Senior Software Developer at Meinstyn Solution**, where I
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
+
+<img
+  src="https://github.com/sangramk77.png"
+  width="110"
+  height="110"
+  alt="Sangram Keshari Sahoo"
+/>
+
+<br /><br />
 
 <a href="https://github.com/sangramk77">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=sangramk77&show_icons=true&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=888888&bg_color=00000000"
+    src="https://github-stats-extended.vercel.app/api?username=sangramk77&show_icons=true&rank_icon=github&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=888888&bg_color=00000000"
     alt="Sangram's GitHub Stats"
     height="180"
   />
@@ -112,7 +123,7 @@ Currently working as **Senior Software Developer at Meinstyn Solution**, where I
 
 <a href="https://git.io/streak-stats">
   <img
-    src="https://streak-stats.demolab.com?user=sangramk77&hide_border=true&background=00000000&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=888888&dates=888888&sideNums=555555&currStreakNum=FF6B35"
+    src="https://streak-stats.demolab.com?user=sangramk77&starting_year=2023&hide_border=true&background=00000000&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=888888&dates=888888&sideNums=555555&currStreakNum=FF6B35"
     alt="Sangram's GitHub Streak"
   />
 </a>
