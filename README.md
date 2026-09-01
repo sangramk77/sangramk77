@@ -69,14 +69,14 @@ Currently working as **Senior Software Developer at Meinstyn Solution**, where I
 ## Selected Projects
 
 | Project | Type | Stack |
-|---|---|---|
-| **Natural Rudraksh** | eCommerce Platform | <img src="https://api.iconify.design/logos:laravel.svg" height="18" title="Laravel" /> <img src="https://api.iconify.design/logos:mysql.svg" height="18" title="MySQL" /> <img src="https://api.iconify.design/logos:tailwindcss.svg" height="18" title="Tailwind CSS" /> |
-| **Effective Gems** | eCommerce + Analytics | <img src="https://api.iconify.design/logos:laravel.svg" height="18" title="Laravel" /> <img src="https://api.iconify.design/simple-icons:filament.svg?color=%23FDAE4B" height="18" title="Filament" /> <img src="https://api.iconify.design/logos:alpinejs.svg" height="18" title="Alpine.js" /> |
-| **Vastu World** | eCommerce Platform | <img src="https://api.iconify.design/logos:laravel.svg" height="18" title="Laravel" /> <img src="https://api.iconify.design/simple-icons:livewire.svg?color=%234E56A6" height="18" title="Livewire" /> |
-| **Hitech Group Management** | Business Management System | <img src="https://api.iconify.design/logos:laravel.svg" height="18" title="Laravel" /> <img src="https://api.iconify.design/logos:mysql.svg" height="18" title="MySQL" /> <img src="https://api.iconify.design/simple-icons:filament.svg?color=%23FDAE4B" height="18" title="Filament" /> |
-| **Pratidin / Prabaha / Prayas ePaper** | Digital Publishing Platform | <img src="https://api.iconify.design/logos:laravel.svg" height="18" title="Laravel" /> <img src="https://api.iconify.design/simple-icons:livewire.svg?color=%234E56A6" height="18" title="Livewire" /> |
-| **LRMS** | Government Revenue Management | <img src="https://api.iconify.design/logos:php.svg" height="18" title="PHP" /> <img src="https://api.iconify.design/logos:mongodb.svg" height="18" title="MongoDB" /> |
-| **Larapush / Business Push** | SaaS — Marketing Automation | <img src="https://api.iconify.design/logos:laravel.svg" height="18" title="Laravel" /> <img src="https://api.iconify.design/logos:nodejs.svg" height="18" title="Node.js" /> <img src="https://api.iconify.design/logos:redis.svg" height="18" title="Redis" /> |
+|---|---|:---:|
+| **Natural Rudraksh** | eCommerce Platform | <img src="https://api.iconify.design/devicon:laravel.svg" height="20" title="Laravel" /> <img src="https://api.iconify.design/devicon:mysql.svg" height="20" title="MySQL" /> <img src="https://api.iconify.design/devicon:tailwindcss.svg" height="20" title="Tailwind CSS" /> |
+| **Effective Gems** | eCommerce + Analytics | <img src="https://api.iconify.design/devicon:laravel.svg" height="20" title="Laravel" /> <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:filament.svg?color=%23FDAE4B" /><img src="https://api.iconify.design/simple-icons:filament.svg?color=%23D97706" height="20" title="Filament" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:alpinedotjs.svg?color=%2338BDF8" /><img src="https://api.iconify.design/simple-icons:alpinedotjs.svg?color=%230284C7" height="20" title="Alpine.js" /></picture> |
+| **Vastu World** | eCommerce Platform | <img src="https://api.iconify.design/devicon:laravel.svg" height="20" title="Laravel" /> <img src="https://api.iconify.design/simple-icons:livewire.svg?color=%234E56A6" height="20" title="Livewire" /> |
+| **Hitech Group Management** | Business Management System | <img src="https://api.iconify.design/devicon:laravel.svg" height="20" title="Laravel" /> <img src="https://api.iconify.design/devicon:mysql.svg" height="20" title="MySQL" /> <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:filament.svg?color=%23FDAE4B" /><img src="https://api.iconify.design/simple-icons:filament.svg?color=%23D97706" height="20" title="Filament" /></picture> |
+| **Pratidin / Prabaha / Prayas ePaper** | Digital Publishing Platform | <img src="https://api.iconify.design/devicon:laravel.svg" height="20" title="Laravel" /> <img src="https://api.iconify.design/simple-icons:livewire.svg?color=%234E56A6" height="20" title="Livewire" /> |
+| **LRMS** | Government Revenue Management | <img src="https://api.iconify.design/devicon:php.svg" height="20" title="PHP" /> <img src="https://api.iconify.design/devicon:mongodb.svg" height="20" title="MongoDB" /> |
+| **Larapush / Business Push** | SaaS — Marketing Automation | <img src="https://api.iconify.design/devicon:laravel.svg" height="20" title="Laravel" /> <img src="https://api.iconify.design/devicon:nodejs.svg" height="20" title="Node.js" /> <img src="https://api.iconify.design/devicon:redis.svg" height="20" title="Redis" /> |
 
 ---
 
@@ -148,6 +148,6 @@ Currently working as **Senior Software Developer at Meinstyn Solution**, where I
 
 Talk is cheap. Send patches
 
-**[sangramk.in](https://sangramk.in) · [github.com/sangramk77](https://github.com/sangramk77) · [sangram@sangramk.in](mailto:sangram@sangramk.in)**
+**<img src="https://api.iconify.design/lucide:globe.svg?color=%23FF6B35" width="14" height="14" style="vertical-align:middle;" /> [sangramk.in](https://sangramk.in) &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide:github.svg?color=%23888888" width="14" height="14" style="vertical-align:middle;" /> [github.com/sangramk77](https://github.com/sangramk77) &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide:mail.svg?color=%23EA4335" width="14" height="14" style="vertical-align:middle;" /> [sangram@sangramk.in](mailto:sangram@sangramk.in)**
 
 </div>
