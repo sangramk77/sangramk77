@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a Full Stack Developer with **10+ years of professional experience**, including **7+ years in software engineering**. I build production-ready web applications — from eCommerce platforms and SaaS tools to government systems and AI-integrated workflows.
+I'm a Full Stack Developer with **<font color="#FF6B35">10+ years</font> of professional experience**, including **<font color="#6366F1">7+ years</font> in software engineering**. I build production-ready web applications — from eCommerce platforms and SaaS tools to government systems and AI-integrated workflows.
 
 Currently working as **Senior Software Developer at Meinstyn Solution**, where I architect and ship scalable systems using Laravel, Livewire, Filament PHP, React, and TypeScript.
 
