@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sangramk.in-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://sangramk.in)
 [![GitHub](https://img.shields.io/badge/GitHub-sangramk77-181717?style=flat-square&logo=github)](https://github.com/sangramk77)
-[![Email](https://img.shields.io/badge/Email-sangramdev7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sangramdev7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sangramdev7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sangram@sangramk.in)
 
 </div>
 
