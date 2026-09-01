@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sangramk.in-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://sangramk.in)
 [![GitHub](https://img.shields.io/badge/GitHub-sangramk77-181717?style=flat-square&logo=github)](https://github.com/sangramk77)
-[![Email](https://img.shields.io/badge/Email-sangramdev7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sangram@sangramk.in)
+[![Email](https://img.shields.io/badge/Email-sangram@sangramk.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sangram@sangramk.in)
 
 </div>
 
@@ -136,6 +136,6 @@ AI-Integrated Workflows    Web Scraping & Automation  SEO-Optimized Websites
 
 Talk is cheap. Send patches
 
-**[sangramk.in](https://sangramk.in) · [github.com/sangramk77](https://github.com/sangramk77) · [sangramdev7@gmail.com](mailto:sangramdev7@gmail.com)**
+**[sangramk.in](https://sangramk.in) · [github.com/sangramk77](https://github.com/sangramk77) · [sangram@sangramk.in](mailto:sangram@sangramk.in)**
 
 </div>
