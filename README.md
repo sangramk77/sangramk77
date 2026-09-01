@@ -17,12 +17,12 @@ I'm a Full Stack Developer with **10+ years of professional experience**, includ
 
 Currently working as **Senior Software Developer at Meinstyn Solution**, where I architect and ship scalable systems using Laravel, Livewire, Filament PHP, React, and TypeScript.
 
-- 🏗️ Architecting production platforms with **Laravel, Filament, Livewire, React, and Node.js**
-- 🛒 Building end-to-end **eCommerce systems** — catalogs, order flows, payments, SEO
-- 📰 Developed and maintained **ePaper & digital publishing platforms**
-- 🏛️ Delivered **government and enterprise systems** with role-based access and audit workflows
-- 🤖 Integrating **OpenAI, Gemini, and Claude** into real-world production apps
-- 🌱 Exploring **Docker, Kubernetes, NativePHP, TanStack Start**, and dev automation
+- <img src="https://api.iconify.design/lucide:layers.svg?color=%236366F1" width="16" height="16" style="vertical-align:middle;" alt="layers" /> &nbsp;Architecting production platforms with **Laravel, Filament, Livewire, React, and Node.js**
+- <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=%23F97316" width="16" height="16" style="vertical-align:middle;" alt="shopping-cart" /> &nbsp;Building end-to-end **eCommerce systems** — catalogs, order flows, payments, SEO
+- <img src="https://api.iconify.design/lucide:newspaper.svg?color=%2364748B" width="16" height="16" style="vertical-align:middle;" alt="newspaper" /> &nbsp;Developed and maintained **ePaper & digital publishing platforms**
+- <img src="https://api.iconify.design/lucide:landmark.svg?color=%23F59E0B" width="16" height="16" style="vertical-align:middle;" alt="landmark" /> &nbsp;Delivered **government and enterprise systems** with role-based access and audit workflows
+- <img src="https://api.iconify.design/lucide:bot.svg?color=%23A855F7" width="16" height="16" style="vertical-align:middle;" alt="bot" /> &nbsp;Integrating **OpenAI, Gemini, and Claude** into real-world production apps
+- <img src="https://api.iconify.design/lucide:sprout.svg?color=%2322C55E" width="16" height="16" style="vertical-align:middle;" alt="sprout" /> &nbsp;Exploring **Docker, Kubernetes, NativePHP, TanStack Start**, and dev automation
 
 ---
 
@@ -124,11 +124,23 @@ Currently working as **Senior Software Developer at Meinstyn Solution**, where I
 
 ## What I Build
 
-```
-eCommerce Platforms        SaaS Applications         Admin Panels & Dashboards
-ePaper Publishing Tools    Government Systems         Payment-Enabled Platforms
-AI-Integrated Workflows    Web Scraping & Automation  SEO-Optimized Websites
-```
+<table>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%23F97316" width="14" height="14" style="vertical-align:middle;" alt="shopping-bag" /> &nbsp;eCommerce Platforms</td>
+    <td><img src="https://api.iconify.design/lucide:cloud.svg?color=%2338BDF8" width="14" height="14" style="vertical-align:middle;" alt="cloud" /> &nbsp;SaaS Applications</td>
+    <td><img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%236366F1" width="14" height="14" style="vertical-align:middle;" alt="layout-dashboard" /> &nbsp;Admin Panels &amp; Dashboards</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:newspaper.svg?color=%2364748B" width="14" height="14" style="vertical-align:middle;" alt="newspaper" /> &nbsp;ePaper Publishing Tools</td>
+    <td><img src="https://api.iconify.design/lucide:landmark.svg?color=%23F59E0B" width="14" height="14" style="vertical-align:middle;" alt="landmark" /> &nbsp;Government Systems</td>
+    <td><img src="https://api.iconify.design/lucide:credit-card.svg?color=%2310B981" width="14" height="14" style="vertical-align:middle;" alt="credit-card" /> &nbsp;Payment-Enabled Platforms</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23A855F7" width="14" height="14" style="vertical-align:middle;" alt="brain-circuit" /> &nbsp;AI-Integrated Workflows</td>
+    <td><img src="https://api.iconify.design/lucide:bot.svg?color=%2306B6D4" width="14" height="14" style="vertical-align:middle;" alt="bot" /> &nbsp;Web Scraping &amp; Automation</td>
+    <td><img src="https://api.iconify.design/lucide:trending-up.svg?color=%2322C55E" width="14" height="14" style="vertical-align:middle;" alt="trending-up" /> &nbsp;SEO-Optimized Websites</td>
+  </tr>
+</table>
 
 ---
 
