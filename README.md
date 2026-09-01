@@ -3,9 +3,7 @@
 
 ### Full Stack Developer · Laravel Specialist · Open Source Contributor
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sangramk.in-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://sangramk.in)
-[![GitHub](https://img.shields.io/badge/GitHub-sangramk77-181717?style=flat-square&logo=github)](https://github.com/sangramk77)
-[![Email](https://img.shields.io/badge/Email-sangram@sangramk.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sangram@sangramk.in)
+**<img src="https://api.iconify.design/lucide:globe.svg?color=%23FF6B35" width="14" height="14" style="vertical-align:middle;" /> [sangramk.in](https://sangramk.in) &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide:github.svg?color=%23888888" width="14" height="14" style="vertical-align:middle;" /> [github.com/sangramk77](https://github.com/sangramk77) &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide:mail.svg?color=%23EA4335" width="14" height="14" style="vertical-align:middle;" /> [sangram@sangramk.in](mailto:sangram@sangramk.in)**
 
 </div>
 
